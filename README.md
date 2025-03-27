@@ -1,3 +1,3 @@
 # Portfolio
-title: [MARITZA D HAMBRIC]
+title: MARITZA D HAMBRIC
 description:Shows my skills 
